@@ -1,0 +1,18 @@
+#characters {
+    padding: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.character{
+    padding: 1rem;
+    background-color: #293c42;
+    color: white;
+    padding: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
