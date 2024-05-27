@@ -2,8 +2,6 @@ import { LandingPage } from "./pages/LandingPage";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { DetailCharacters } from "./pages/DetailCharacters"
 
-import "./App.css";
-
 export const App = () => {
 
   return (
